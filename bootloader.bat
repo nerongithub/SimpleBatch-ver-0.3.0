@@ -78,6 +78,6 @@ Echo( Build 3
 Echo( Release Notes:
 Echo( Version 0.1.0 and 0.2.0 are not released because of unexpected errors
 Echo( so version 0.3.0 will release first, version 0.1 and 0.2 will release soon
-Echo( will literally ZERO ERRORS
+Echo( will literally has ZERO ERRORS
 Pause
 GoTo Menu
